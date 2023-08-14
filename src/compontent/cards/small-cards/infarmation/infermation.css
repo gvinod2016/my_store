@@ -1,0 +1,10 @@
+.sec-recent .grid .card .nav-link p{
+    margin: 0px;
+}
+.sec-recent .grid .card .nav-link .price .decoration{
+    text-decoration: line-through
+}
+.sec-recent .grid .card .nav-link .price  .color{
+    color: green;
+    font-size: 15px;
+}

@@ -1,0 +1,11 @@
+.sec-recent .title .title-main p{
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 5px;
+    margin: 0;
+}
